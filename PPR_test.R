@@ -1,5 +1,3 @@
-# Name: Yash Patel
-
 # Importing Dataset
 pprtests <- read.csv("PPR tests.csv", stringsAsFactors=TRUE, na.strings = "Not Specified")
 class(pprtests) # Checking the class of the dataset
